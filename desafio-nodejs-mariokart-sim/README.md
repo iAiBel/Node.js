@@ -8,7 +8,9 @@ Este repositório contém **duas versões** do simulador de corrida inspirado no
 ---
 
 ## 🍄 Projeto Original da DIO  
-![Mario](./docs/mario.gif)                                  O projeto original da DIO propõe a criação de um simulador simples de corrida entre **dois personagens**, utilizando atributos básicos e rodadas aleatórias.
+![Mario](./docs/mario.gif)                                  
+
+O projeto original da DIO propõe a criação de um simulador simples de corrida entre **dois personagens**, utilizando atributos básicos e rodadas aleatórias.
 
 ### 🎯 **Objetivo do Projeto Original**
 Criar uma corrida com regras simples, onde:
